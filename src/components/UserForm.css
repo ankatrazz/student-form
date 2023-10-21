@@ -1,0 +1,51 @@
+
+.user_form{
+    
+    background-color:#F4F4F9;
+    height:100%;
+    padding:20px;
+}
+.submit{
+    
+    background-color:#F4F4F9;
+    
+}
+.user_form_section{
+    margin:auto;
+    width:44%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.user_title_section{
+    background-color: white;
+    border-top:8px solid rgb(103, 58, 183);
+    border-radius: 8px;
+    padding:15px 25px;
+    text-transform: capitalize;
+    margin-bottom: 8px;
+}
+
+.user_form_questions{
+    background-color: white;
+
+    border-radius: 8px;
+    padding:30px 25px;
+    text-transform: capitalize;
+    
+margin-bottom: 8px;
+}
+
+.user_form_submit{
+  float:left;
+
+
+}
+
+.user_footer{
+    margin-bottom: 0;
+    text-align:center;
+    font-size: medium;
+    font-weight: 500;
+}
